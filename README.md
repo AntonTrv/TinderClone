@@ -1,1 +1,1 @@
-# TinderClone
+# TinderClone React + Firebase
